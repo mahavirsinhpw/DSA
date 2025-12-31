@@ -13,7 +13,6 @@ public class Missing {
 
         int n = array.length;
 
-
         // sum of natural elements
         // if the number ranges from 1 to n then
         int sumOfNaturalElements = ((n + 1) * (n + 2)) / 2;
